@@ -7,7 +7,7 @@ I'm a passionate Computer Science student and full-stack developer specializing 
 With expertise spanning across Java, Spring Boot, Angular, Python, Django, and modern JavaScript frameworks, I focus on creating scalable, maintainable, and high-performance applications. I have hands-on experience with cloud technologies like AWS and Docker, and I'm passionate about solving real-world problems through innovative code and thoughtful design.
 
 My journey includes developing comprehensive solutions from queue management systems to AI-powered learning platforms, always prioritizing user experience and technical excellence.
-<br>cel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 
 
 <h1 align="center">Hello 👋, I'm Pranit Bhopi</h1>
