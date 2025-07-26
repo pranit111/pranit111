@@ -1,4 +1,6 @@
-<img src="https://capsule-rend<h2 align="center">🚀 About Me</h2>
+<img src="https://capsule-re<br>
+
+<h2 align="center">🚀 About Me</h2>
 
 I'm a passionate Computer Science student and full-stack developer specializing in modern web technologies — crafting robust backend systems and seamless user experiences. Currently pursuing B.E. in Computer Science Engineering at Zeal College of Engineering and Research with a CGPA of 8.5/10.
 
