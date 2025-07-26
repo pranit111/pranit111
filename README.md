@@ -2,7 +2,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm a passionate Computer Science student and full-stack developer specializing in modern web technologies — crafting robust backend systems and seamless user experiences. Currently pursuing B.E. in Computer Science Engineering at Zeal College of Engineering and Research with a CGPA of 8.5/10.
+I'm a passionate Computer Science student and full-stack developer specializing in modern web technologies — crafting robust backend systems and seamless user experiences. Currently pursuing B.E. in Computer Science Engineering at Saraswati College of Engineering and Research with a CGPA of 8.5/10.
 
 With expertise spanning across Java, Spring Boot, Angular, Python, Django, and modern JavaScript frameworks, I focus on creating scalable, maintainable, and high-performance applications. I have hands-on experience with cloud technologies like AWS and Docker, and I'm passionate about solving real-world problems through innovative code and thoughtful design.
 
